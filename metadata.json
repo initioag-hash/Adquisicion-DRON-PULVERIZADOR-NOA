@@ -1,0 +1,5 @@
+{
+  "name": "Consultor Agrotecnológico NOA - Simulador DJI ROI",
+  "description": "Un simulador dinámico de ROI para la adquisición de drones DJI Agras en el NOA, diseñado para optimizar la toma de decisiones en esquemas de 8.000 ha.",
+  "requestFramePermissions": []
+}
